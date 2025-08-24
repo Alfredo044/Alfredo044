@@ -9,5 +9,6 @@ Hi there 👋 I'm Alfredo J Joya Jr.
 ⚡ Skills: Python, CCS, HTML, Java Scrpit
 
 📫 Contact: 
+
 Email: alfredojoya23@gmail.com
   
