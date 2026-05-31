@@ -1,68 +1,108 @@
-```md
+````md
+<div align="center">
+
 # Hi there 👋 I'm Alfredo J. Joya Jr.
+
+### 🎓 BS Information Technology Student  
+### Laguna State Polytechnic University – Sta. Cruz Campus, Laguna
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Development+Enthusiast;UI%2FUX+Design+Learner;Aspiring+IT+Professional;Always+Learning+and+Improving" />
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-I am currently a fourth-year **BS Information Technology** student at **Laguna State Polytechnic University – Sta. Cruz Campus, Laguna**.
+I am currently a fourth-year **BS Information Technology** student at **Laguna State Polytechnic University**.  
+As an IT student, my goal is to continuously improve my technical skills through practical experience, academic projects, and real-world system development.
 
-As an IT student, my goal is to continuously enhance my technical skills through practical experience, academic projects, and real-world system development. I aim to become more proficient in programming, software development, system design, and user-centered interface design.
+I am interested in **Software Development**, **Web Development**, and **UI/UX Design**.
 
 ---
 
 ## 🎯 Goals
 
-- Improve my programming and problem-solving skills
-- Gain more experience in software development projects
-- Develop efficient and user-friendly systems
-- Strengthen my knowledge in system design and UI/UX design
-- Build a strong portfolio through practical IT projects
+- Enhance my programming and problem-solving skills
+- Build useful and user-friendly systems
+- Improve my knowledge in system design
+- Gain more experience in software development
+- Create projects that can help strengthen my IT portfolio
 
 ---
 
 ## 🎨 Interests
 
-- Software Development
-- UI/UX Design
-- Web Development
-- System Design
-- Front-End Development
+<div align="center">
+
+![Software Development](https://img.shields.io/badge/Software%20Development-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-1E293B?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Web Development](https://img.shields.io/badge/Web%20Development-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+</div>
 
 ---
 
 ## ⚡ Skills
 
-### Programming and Web Technologies
-
-- Python
-- CSS
-- HTML
-- JavaScript
-
----
-
-## 🛠️ Tools and Technologies
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+</div>
+
+---
+
+## 🛠️ Tools and Technologies
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-242938?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
 ---
 
 ## 📌 Current Focus
 
-I am currently focusing on improving my skills in web development, software development, and UI/UX design by creating academic and personal projects.
+```txt
+Learning: Software Development, Web Development, and UI/UX Design
+Building: Academic and personal IT projects
+Improving: Programming, system design, and user interface skills
+````
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
 
 ---
 
 ## 📫 Contact Me
 
-**Email:** alfredojoya23@gmail.com
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-alfredojoya23%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alfredojoya23@gmail.com)
+
+</div>
 
 ---
 
-## ✨ Quote 
+<div align="center">
 
-> “Continuous learning and practice are the keys to becoming a better IT professional.”
+### ✨ “Continuous learning and practice are the keys to becoming a better IT professional.” ✨
+
+</div>
 ```
-  
