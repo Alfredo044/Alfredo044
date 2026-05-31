@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Hi there 👋 I'm Alfredo J. Joya Jr.
@@ -74,7 +73,7 @@ I am interested in **Software Development**, **Web Development**, and **UI/UX De
 Learning: Software Development, Web Development, and UI/UX Design
 Building: Academic and personal IT projects
 Improving: Programming, system design, and user interface skills
-````
+```
 
 ---
 
@@ -94,7 +93,7 @@ Improving: Programming, system design, and user interface skills
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-alfredojoya23%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alfredojoya23@gmail.com)
+[![Email](https://img.shields.io/badge/Email-alfredojoya23%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredojoya23@gmail.com)
 
 </div>
 
@@ -105,4 +104,3 @@ Improving: Programming, system design, and user interface skills
 ### ✨ “Continuous learning and practice are the keys to becoming a better IT professional.” ✨
 
 </div>
-```
